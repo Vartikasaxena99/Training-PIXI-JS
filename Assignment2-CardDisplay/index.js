@@ -9,7 +9,7 @@ const game = new PIXI.Application({
   loadAssets(
     [
     
-      { name: "back", url: "./assets/cardback2.png" },
+      { name: "back", url: "./assets/cardback.png" },
     //  { name: "front", url: "./assets/cardback.png" },
     ],
     start
